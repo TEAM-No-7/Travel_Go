@@ -16,8 +16,8 @@ body {
     margin: 10px;
 }
 .loginbox{
-    height: 420px;
-    width: 320px;
+    height: 520px;
+    width: 220px;
     background-color: rgb(0,0,0,0.5);
     backdrop-filter: blur(2px);
     color: #fff;
