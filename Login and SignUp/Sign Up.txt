@@ -1,0 +1,10 @@
+First Name 
+last name
+email
+phone no
+date of birth
+password
+confirm password
+sign up
+or 
+login through google account
