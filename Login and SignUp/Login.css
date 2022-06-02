@@ -16,13 +16,8 @@ body {
     margin: 10px;
 }
 .loginbox{
-<<<<<<< HEAD
-    height: 320px;
-    width: 340px;
-=======
-    height: 520px;
-    width: 270px;
->>>>>>> master
+    height: 340px;
+    width: 320px;
     background-color: rgb(0,0,0,0.5);
     backdrop-filter: blur(2px);
     color: #fff;
@@ -35,13 +30,9 @@ body {
 
 }
 .loginlogo{
-<<<<<<< HEAD
+
     width: 200px;
     height: 100px;
-=======
-    width: 140px;
-    height: 160px;
->>>>>>> master
     border-radius: 50%;
     position: absolute;
     top: -50px;
